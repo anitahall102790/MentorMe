@@ -1,0 +1,29 @@
+body {
+background: red;
+height: inherit;
+width: 100%;
+margin: 0;
+padding: 0;
+font-family: 'Roboto';
+}
+.top {
+background: dimgrey;
+height: 45px;
+}
+.list {
+padding-top: 15px;
+text-align: center;
+}
+.plus {
+top: 0;
+left: 0;
+color: white;
+}
+.mentorlist {
+list-style: none;
+padding-bottom: 10px;
+text-align: left;
+}
+.listimg {
+  width: 50px;
+}
